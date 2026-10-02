@@ -35,3 +35,7 @@ K4-DAY13-*/
 !data/ATTRIBUTION.md
 !data/LICENSE.txt
 student-bundles/
+
+# Allow submission report
+!report/
+!report/**
